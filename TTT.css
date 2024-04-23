@@ -1,0 +1,12 @@
+.row-span{
+    display: flex;    
+}
+
+.btn{
+    width: 5em;
+    height: 5em;
+    float: left;
+    border: black solid 1px;
+    background-color: white;
+    cursor: pointer;
+}
