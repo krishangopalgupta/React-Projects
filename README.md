@@ -1,6 +1,6 @@
-##### This react repository contains different directory of the small react projects and its main logic
-##### How to use It in your project
-<p>You have already installed node!!!</p>
+#### This react repository contains different directory of the small react projects and its main logic
+#### How to use It in your project
+### You have already installed node!!!
 <li>Run: npx create-react-app myapp</li>
 <li>In src make two file names whatever you want </li>
 <li>import the one of the root file in your app component</li>
